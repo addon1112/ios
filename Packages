@@ -77,7 +77,7 @@ Package: 12act
 Name: 12act
 Architecture: iphoneos-arm
 Version: 1.0
-Description: 12act12act12act12act12act12act12act12act12act12act12act12act12act12act
+Description: 12ac-t12act12act12act12act12act12act12act12act12act12act12act12act12act
 Maintainer: 12act 
 Author: 12act 
 Section: System
@@ -86,7 +86,7 @@ Size: 4376
 MD5sum: b5e800270a8083ee98d69e4e0e9904c0
 SHA1: 53f7499a4561d43f1d0e545f2d96de163c1f7392
 SHA256: 73fbba8cedaf3a9f413f686c3d403bf13098a7152fea5a584a409f77148d3b44
-Depends: firmware (>= 6.0), mobilesubstrate, preferenceloader, applist,cy+cpu.arm64,mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2), com.rpetrich.rocketbootstrap (>= 1.0.6) | firmware (<< 7.0)
+Depends: firmware (>= 6.0), mobilesubstrate, preferenceloader, applist,cy+cpu.arm64,mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2), com.rpetrich.rocketbootstrap (>= 1.0.6) | firmware (<< 7.0),libactivator,com.rbt.useragentchanger,com.rpetrich.rocketbootstrap, com.a3tweaks.flipswitch, preferenceloader, applist,openssh,applist,sudo,jetslammed,curl,network-cmds,lsof
 
 Package: amazonAtlTeamhook
 Name: amazonAtlTeamhook
