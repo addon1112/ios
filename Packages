@@ -1,12 +1,119 @@
-Package: libactivator_1.9.13
+Package: libactivator
 Name: Activator
 Architecture: iphoneos-arm
-Version: 1.9.13
+Version: 1.9.13~beta5
 Description: Centralized gestures, button and shortcut management for iOS
 Maintainer: Ryan Petrich <rpetrich+activator@gmail.com>
 Author: Ryan Petrich
 Section: System
-Filename: ./Debs/libactivator_1.9.13~beta5.deb
-Size: 706942
-MD5sum: 38f38c4139ffae73694611c472cb990a
-Depends: com.rpetrich.rocketbootstrap (>= 1.0.7),com.a3tweaks.flipswitch (>= 1.0.16), preferenceloader (>= 2.2.4),applist (>= 1.5.15)
+Filename: ./debs/libactivator_1.9.13_rc5_iphoneos-arm.deb
+Size: 924640
+MD5sum: 7e83ab221425a8cab3db91b418a9eb9d
+SHA1: 9001b5d972d3d6ba8c9979c66f3e663c998d436b
+SHA256: 34935cca8f1f3e95bd5b550386227d5ebc52940d5021f4386c05198dc2576250
+Depends: com.a3tweaks.flipswitch
+
+Package: com.a3tweaks.flipswitch
+Name: Flipswitch
+Architecture: iphoneos-arm
+Version: 1.0.16~beta5
+Description: Centralized toggle system for iOS
+Maintainer: rpetrich & a3tweaks <rpetrich+flipswitch@gmail.com>
+Author: Ryan Petrich
+Section: System
+Filename: ./debs/com.a3tweaks.flipswitch_1.0.16_rc3_iphoneos-arm.deb
+Size: 301098
+MD5sum: 6aa1da6c359b385e715cc8a71aa64364
+SHA1: 23618f385d41c2624fc09a60e9f554f3f8faff24
+SHA256: a13a6928248a41a6b81b1faec9703f4e7af9aedcede5ef11dbd71dbd22fc58ec
+
+Package: com.rbt.useragentchanger
+Name: User Agent Changer
+Architecture: iphoneos-arm
+Version: 1.1.10
+Description: Change your Browser's User Agent.
+Maintainer: poetic_folly <poetic_folly@modmyi.com>
+Author: ModMyi
+Section: Tweaks
+Filename: ./debs/com.rbt.useragentchanger_1.1.10_iphoneos-arm.deb
+Size: 53436
+MD5sum: cc29085d77d7a54902e273d059e136f4
+SHA1: 1565f739ac95bac2c853ae43d869b19098e5d986
+SHA256: 19772a47fca9829a32376a6f3bab9fb34da713ea4a42c06214977a964f31c4fd
+
+Package: com.ryleyangus.libertylite
+Name: Liberty Lite (Beta)
+Architecture: iphoneos-arm
+Version: 0.2.11
+Description: A (lite) general purpose jailbreak detection bypass patch. Use the Liberty Lite entry in the Settings app to block (most) apps from detecting your jailbreak. Disabling Substrate/Substitute is not supported. 32-bit support is currently disabled.
+Maintainer: Ryley Angus
+Author: Ryley Angus
+Section: Tweaks
+Icon: file:///Library/PreferenceBundles/LibertyPref.bundle/LibertyPref.png
+Filename: ./debs/LibertyLite0211.deb
+Size: 53542
+MD5sum: 4f1f62459646a035ad95a1bce4de055e
+SHA1: dce789b9e50a34ebcc729115c22cc14f5c70fa55
+SHA256: e00e1de832e275e46de2f82bbaaeb5cd96f85d148e82f89880daf9e7d087a205
+Depends: mobilesubstrate,firmware (>= 11.0)
+Conflicts: com.ryleyangus.liberty, com.ryleyangus.libertylite
+
+Package: lsof
+Name: lsof
+Architecture: iphoneos-arm
+Version: 33-1
+Description: shows what files programs have open
+Maintainer: Bingner/Elucubratus
+Author: Bingner/Elucubratus
+Section: Administration
+Filename: ./debs/lsof_33-1_iphoneos-arm.deb
+Size: 42480
+MD5sum: a8c741bc977101f5f43d847d1f6ae193
+SHA1: 5a736bb0403eaaa6c949d239e5ccf55b1c400360
+SHA256: 5fe074dac1ffb5704426639d514f15f8091217571fe75875ad2f4c86299dc97c
+Depends: ncurses, cy+cpu.arm64
+
+Package: 12act
+Name: 12act
+Architecture: iphoneos-arm
+Version: 1.0
+Description: 12act12act12act12act12act12act12act12act12act12act12act12act12act12act
+Maintainer: 12act 
+Author: 12act 
+Section: System
+Filename: ./debs/com.lynguyen.12act-uncover_1.0_iphoneos-arm.deb
+Size: 4376
+MD5sum: b5e800270a8083ee98d69e4e0e9904c0
+SHA1: 53f7499a4561d43f1d0e545f2d96de163c1f7392
+SHA256: 73fbba8cedaf3a9f413f686c3d403bf13098a7152fea5a584a409f77148d3b44
+Depends: firmware (>= 6.0), mobilesubstrate, preferenceloader, applist,cy+cpu.arm64,mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2), com.rpetrich.rocketbootstrap (>= 1.0.6) | firmware (<< 7.0)
+
+Package: amazonAtlTeamhook
+Name: amazonAtlTeamhook
+Architecture: iphoneos-arm
+Version: 1.0-2
+Description: amazonAtlTeamhookamazonAtlTeamhookamazonAtlTeamhookamazonAtlTeamhook
+Maintainer: amazonAtlTeamhook 
+Author: amazonAtlTeamhook 
+Section: Tweaks
+Filename: ./debs/com.amazon.AtlTeamhook_1.0-2_iphoneos-arm.deb
+Size: 18612
+MD5sum: 1415defbba6b2592ba5b568dcef47d8d
+SHA1: 90b063b76e91bda7d1b44a7dc09425ad4e19d531
+SHA256: 1b983f16ecb1819ebe791ab6fa5b0f76258e4f0adfa934192bd138a1a46d2412
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
+
+Package: amazonuncoverios12AutoLeadHelper
+Name: amazonuncoverios12AutoLeadHelper
+Architecture: iphoneos-arm
+Version: 1.0-2
+Description: amazonuncoverios12AutoLeadHelperamazonuncoverios12AutoLeadHelperamazonuncoverios12AutoLeadHelper
+Maintainer: amazonuncoverios12AutoLeadHelper 
+Author: amazonuncoverios12AutoLeadHelper 
+Section: Tweaks
+Filename: ./debs/com.amazon.uncoverios12.AutoLeadHelper_1.0-2_iphoneos-arm.deb
+Size: 349768
+MD5sum: 67638a5f1ac8f1b5bbda21b167875db6
+SHA1: 9f40457a870b9b949015ac4c6dcdcca8d8817e93
+SHA256: c76bd6f39b8380a19759d8d91911554fe6f7765331db1150d9698fe78e2c4044
+Depends: mobilesubstrate,com.rpetrich.rocketbootstrap
