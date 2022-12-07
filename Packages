@@ -146,7 +146,8 @@ Filename: ./debs/com.nguyentrungkien.AutoLeadHelper_1.0-7_iphoneos-arm.deb
 Size: 38852
 MD5sum: 03c1db76f398a78a1847eaf929ec5cf0
 SHA1: 30cead60ec905662ae87782e2fd4d4e2022b95af
-SHA256: d39a805955a432a55855009a6005a5144c2434e79d0042e
+SHA256: d39a805955a432a55855009a6005a5144c2434e79d0042ec87bf6645472a50c7
+Depends: mobilesubstrate,com.rpetrich.rocketbootstrap
 
 
 Package: com.nguyentrungkien.AtlTeamhook
