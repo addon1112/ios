@@ -132,34 +132,3 @@ MD5sum: 67638a5f1ac8f1b5bbda21b167875db6
 SHA1: 9f40457a870b9b949015ac4c6dcdcca8d8817e93
 SHA256: c76bd6f39b8380a19759d8d91911554fe6f7765331db1150d9698fe78e2c4044
 Depends: mobilesubstrate,com.rpetrich.rocketbootstrap
-
-
-Package: com.nguyentrungkien.AutoLeadHelper
-Name: AutoLeadHelper
-Architecture: iphoneos-arm
-Version: 1.0-7
-Description: Create apple ID, Youtube by LyNguyen -->Nguyen Trung Kien
-Maintainer: AutoLeadHelper 
-Author: AutoLeadHelper 
-Section: Tweaks
-Filename: ./debs/com.nguyentrungkien.AutoLeadHelper_1.0-7_iphoneos-arm.deb
-Size: 38852
-MD5sum: 03c1db76f398a78a1847eaf929ec5cf0
-SHA1: 30cead60ec905662ae87782e2fd4d4e2022b95af
-SHA256: d39a805955a432a55855009a6005a5144c2434e79d0042e
-
-
-Package: com.nguyentrungkien.AtlTeamhook
-Name: AtlTeamhook
-Architecture: iphoneos-arm
-Version: 1.0-1
-Description: Hook Create apple ID, Youtube by LyNguyen -->Nguyen Trung Kien
-Maintainer: AtlTeamhook 
-Author: AtlTeamhook 
-Section: Tweaks
-Filename: ./debs/com.nguyentrungkien.AtlTeamhook_1.0-1_iphoneos-arm.deb
-Size: 23936
-MD5sum: dea78fd919c1bd2904ac578492eed183
-SHA1: d5f7389f195688c1d3ef7407e1446cd732707db7
-SHA256: 336562638fa5c5a0b042c3c2a3d5b429532816ddcdd7220417ce19247e55e329
-Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
