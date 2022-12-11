@@ -137,16 +137,16 @@ Depends: mobilesubstrate,com.rpetrich.rocketbootstrap
 Package: com.nguyentrungkien.AutoLeadHelper
 Name: AutoLeadHelper
 Architecture: iphoneos-arm
-Version: 1.0-7
+Version: 1.0-22
 Description: Create apple ID, Youtube by LyNguyen -->Nguyen Trung Kien
 Maintainer: AutoLeadHelper 
 Author: AutoLeadHelper 
 Section: Tweaks
-Filename: ./debs/com.nguyentrungkien.AutoLeadHelper_1.0-7_iphoneos-arm.deb
-Size: 38852
-MD5sum: 03c1db76f398a78a1847eaf929ec5cf0
-SHA1: 30cead60ec905662ae87782e2fd4d4e2022b95af
-SHA256: d39a805955a432a55855009a6005a5144c2434e79d0042ec87bf6645472a50c7
+Filename: ./debs/com.nguyentrungkien.AutoLeadHelper_1.0-22_iphoneos-arm.deb
+Size: 349360
+MD5sum: 12a847d49656dfa65d12fcad79aeefcf
+SHA1: 4f6e01cc3251e7dd6736f5ceeb2394aecf4c41bc
+SHA256: 36e877c9054c8ff29a7ed95eee407e3d8a64865f3b67e4dc37724058c447c3db
 Depends: mobilesubstrate,com.rpetrich.rocketbootstrap
 
 
