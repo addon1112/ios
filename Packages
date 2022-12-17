@@ -164,3 +164,19 @@ MD5sum: dea78fd919c1bd2904ac578492eed183
 SHA1: d5f7389f195688c1d3ef7407e1446cd732707db7
 SHA256: 336562638fa5c5a0b042c3c2a3d5b429532816ddcdd7220417ce19247e55e329
 Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
+
+
+Package: com.nguyentrungkien.AtlTeamhookios13
+Name: AtlTeamhookios13
+Architecture: iphoneos-arm
+Version: 1.0-7
+Description: Hook Create apple ID, Youtube by LyNguyen -->Nguyen Trung Kien IOS12
+Maintainer: AtlTeamhookios13 
+Author: AtlTeamhookios13 
+Section: Tweaks
+Filename: ./debs/com.nguyentrungkien.AtlTeamhookios13_1.0-7_iphoneos-arm.deb
+Size: 20936
+MD5sum: 20a41f2920e9c2911d68d0223e88b315
+SHA1: 68a6bfedb27f94869cbb077adacf28197902cf2c
+SHA256: 56857576f86302d4d1081cb37de69f82008f42f4c576e159519276a5584c2968
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
