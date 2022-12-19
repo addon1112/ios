@@ -158,7 +158,7 @@ Description: Hook Create apple ID, Youtube by LyNguyen -->Nguyen Trung Kien
 Maintainer: AtlTeamhook 
 Author: AtlTeamhook 
 Section: Tweaks
-Filename: ./debs/com.nguyentrungkien.AtlTeamhook_1.0-22_iphoneos-arm
+Filename: ./debs/com.nguyentrungkien.AtlTeamhook_1.0-22_iphoneos-arm.deb
 Size: 9348
 MD5sum: daa050b24ea5dd53b8a6e939cfc75e56
 SHA1: 315870aafe3d5ed843f453b6c695b945843a8276
