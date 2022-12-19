@@ -153,16 +153,16 @@ Depends: mobilesubstrate,com.rpetrich.rocketbootstrap
 Package: com.nguyentrungkien.AtlTeamhook
 Name: AtlTeamhook
 Architecture: iphoneos-arm
-Version: 1.0-1
+Version: 1.0-22
 Description: Hook Create apple ID, Youtube by LyNguyen -->Nguyen Trung Kien
 Maintainer: AtlTeamhook 
 Author: AtlTeamhook 
 Section: Tweaks
-Filename: ./debs/com.nguyentrungkien.AtlTeamhook_1.0-1_iphoneos-arm.deb
-Size: 23936
-MD5sum: dea78fd919c1bd2904ac578492eed183
-SHA1: d5f7389f195688c1d3ef7407e1446cd732707db7
-SHA256: 336562638fa5c5a0b042c3c2a3d5b429532816ddcdd7220417ce19247e55e329
+Filename: ./debs/com.nguyentrungkien.AtlTeamhook_1.0-22_iphoneos-arm
+Size: 9348
+MD5sum: daa050b24ea5dd53b8a6e939cfc75e56
+SHA1: 315870aafe3d5ed843f453b6c695b945843a8276
+SHA256: 8335536742c0ada44973cd54b957f47968eb0740ada2371516f148a264164dbb
 Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
 
 
