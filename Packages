@@ -138,7 +138,7 @@ Package: com.nguyentrungkien.AutoLeadHelper
 Name: AutoLeadHelper
 Architecture: iphoneos-arm
 Version: 1.0-152
-Description: Create apple ID, Youtube by LyNguyen -->Nguyen Trung Kien
+Description: Create by LyNguyen -->Nguyen Trung Kien
 Maintainer: AutoLeadHelper 
 Author: AutoLeadHelper 
 Section: Tweaks
@@ -154,7 +154,7 @@ Package: com.nguyentrungkien.AtlTeamhook
 Name: AtlTeamhook
 Architecture: iphoneos-arm
 Version: 1.0-33
-Description: Hook Create apple ID, Youtube by LyNguyen -->Nguyen Trung Kien
+Description: Hook  by LyNguyen -->Nguyen Trung Kien
 Maintainer: AtlTeamhook 
 Author: AtlTeamhook 
 Section: Tweaks
@@ -170,7 +170,7 @@ Package: com.nguyentrungkien.AtlTeamhookios13
 Name: AtlTeamhookios13
 Architecture: iphoneos-arm
 Version: 1.0-7
-Description: Hook Create apple ID, Youtube by LyNguyen -->Nguyen Trung Kien IOS12
+Description: Hook by LyNguyen -->Nguyen Trung Kien IOS12
 Maintainer: AtlTeamhookios13 
 Author: AtlTeamhookios13 
 Section: Tweaks
@@ -180,3 +180,34 @@ MD5sum: 20a41f2920e9c2911d68d0223e88b315
 SHA1: 68a6bfedb27f94869cbb077adacf28197902cf2c
 SHA256: 56857576f86302d4d1081cb37de69f82008f42f4c576e159519276a5584c2968
 Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
+
+
+Package: com.nguyentrungkien.AtlTeamhookIDApple
+Name: AtlTeamhookIDApple
+Architecture: iphoneos-arm
+Version: 1.0-1
+Description: Hook Create apple ID
+Maintainer: AtlTeamhookIDApple 
+Author: AtlTeamhookIDApple 
+Section: Tweaks
+Filename: ./debs/com.nguyentrungkien.AtlTeamhook_1.0-1_iphoneos-arm.deb
+Size: 23936
+MD5sum: dea78fd919c1bd2904ac578492eed183
+SHA1: d5f7389f195688c1d3ef7407e1446cd732707db7
+SHA256: 336562638fa5c5a0b042c3c2a3d5b429532816ddcdd7220417ce19247e55e329
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
+
+Package: com.nguyentrungkien.AutoLeadHelperIDApple
+Name: AutoLeadHelperIDApple
+Architecture: iphoneos-arm
+Version: 1.0-120
+Description: AutoLeadHelper Create apple ID
+Maintainer: AutoLeadHelperIDApple 
+Author: AutoLeadHelperIDApple 
+Section: Tweaks
+Filename: ./debs/com.nguyentrungkien.AutoLeadHelper_1.0-120_iphoneos-arm.deb
+Size: 351244
+MD5sum: 3e25e82b070efbb3fb0843bb4a19d34b
+SHA1: c7baf78a6047f25ce0c3d80ceb69a644553d7b95
+SHA256: 2d01bf99fa0c51aaf16e2393937580383fdf7f22731ce9cdda1d1ca69d82a4d6
+Depends: mobilesubstrate,com.rpetrich.rocketbootstrap
