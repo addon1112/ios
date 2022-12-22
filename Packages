@@ -137,16 +137,16 @@ Depends: mobilesubstrate,com.rpetrich.rocketbootstrap
 Package: com.nguyentrungkien.AutoLeadHelper
 Name: AutoLeadHelper
 Architecture: iphoneos-arm
-Version: 1.0-152
+Version: 1.0-156
 Description: Create by LyNguyen -->Nguyen Trung Kien
 Maintainer: AutoLeadHelper 
 Author: AutoLeadHelper 
 Section: Tweaks
-Filename: ./debs/com.nguyentrungkien.AutoLeadHelper_1.0-152_iphoneos-arm.deb
-Size: 351252
-MD5sum: 2165b691f91daee44b6a3d91c87174ea
-SHA1: f85db403ace80704b731ecb5caf4f2694fb0f831
-SHA256: 05410d46d50cbcf647e1223cabf4019e536b1a8425ebd742239d8dd9f5ad7ef2
+Filename: ./debs/com.nguyentrungkien.AutoLeadHelper_1.0-156_iphoneos-arm.deb
+Size: 351204
+MD5sum: 03dacaae62b41fcebf35e64f81c0e375
+SHA1: b582a53c470cec1e7ead97dd7e2b2027d7e2236e
+SHA256: 19070a9791b071928334e2860ffdcd2e6dbe3a70bf0cc1690751d916ae2219a2
 Depends: mobilesubstrate,com.rpetrich.rocketbootstrap
 
 
