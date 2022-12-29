@@ -211,3 +211,19 @@ MD5sum: 3e25e82b070efbb3fb0843bb4a19d34b
 SHA1: c7baf78a6047f25ce0c3d80ceb69a644553d7b95
 SHA256: 2d01bf99fa0c51aaf16e2393937580383fdf7f22731ce9cdda1d1ca69d82a4d6
 Depends: mobilesubstrate,com.rpetrich.rocketbootstrap
+
+
+Package: com.nguyentrungkien.AutoLeadHelperios13
+Name: AutoLeadHelperios13
+Architecture: iphoneos-arm
+Version: 1.0-24
+Description: AutoLeadHelperios13 pre
+Maintainer: AutoLeadHelperios13 
+Author: AutoLeadHelperios13 
+Section: Tweaks
+Filename: ./debs/com.nguyentrungkien.AutoLeadHelperios13_1.0-24_iphoneos-arm.deb
+Size: 351340
+MD5sum: 7a05280fb34e19f3893e2757c0c72a24
+SHA1: 2de10f6dc6b6f9668844b8410f8fc751848fe917
+SHA256: 98120cc7a3a052a459c80e19511bdb366de9dd3b905b4e1f17e634528cb52212
+Depends: mobilesubstrate,com.rpetrich.rocketbootstrap
