@@ -153,16 +153,16 @@ Depends: mobilesubstrate,com.rpetrich.rocketbootstrap
 Package: com.nguyentrungkien.AtlTeamhook
 Name: AtlTeamhook
 Architecture: iphoneos-arm
-Version: 1.0-33
+Version: 1.0-63
 Description: Hook  by LyNguyen -->Nguyen Trung Kien
 Maintainer: AtlTeamhook 
 Author: AtlTeamhook 
 Section: Tweaks
-Filename: ./debs/com.nguyentrungkien.AtlTeamhook_1.0-33_iphoneos-arm.deb
-Size: 11512
-MD5sum: 60eb6758ef8009cf5f300790f7b65755
-SHA1: 3b7ae345bf7ec2a2563cd7dfd4467312a5dfad93
-SHA256: 76f8775a06c500c0cf058113e6366d0b3769af35e5e392e8e5353044a12cbf7d
+Filename: ./debs/com.nguyentrungkien.AtlTeamhook_1.0-63_iphoneos-arm.deb
+Size: 10436
+MD5sum: 5d3bb78a5fbcf4fe54495d1cf863c3ad
+SHA1: d3333035799a7620ce3fac8a6d5c068416ed3a59
+SHA256: a0f91f61f7eb3d77e70986c7f4d5aef15b5ab3e90f66af18305aadb6e4182216
 Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
 
 
