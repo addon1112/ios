@@ -216,14 +216,14 @@ Depends: mobilesubstrate,com.rpetrich.rocketbootstrap
 Package: com.nguyentrungkien.AutoLeadHelperios13
 Name: AutoLeadHelperios13
 Architecture: iphoneos-arm
-Version: 1.0-24
+Version: 1.0-25
 Description: AutoLeadHelperios13 pre
 Maintainer: AutoLeadHelperios13 
 Author: AutoLeadHelperios13 
 Section: Tweaks
-Filename: ./debs/com.nguyentrungkien.AutoLeadHelperios13_1.0-24_iphoneos-arm.deb
-Size: 351340
-MD5sum: 7a05280fb34e19f3893e2757c0c72a24
-SHA1: 2de10f6dc6b6f9668844b8410f8fc751848fe917
-SHA256: 98120cc7a3a052a459c80e19511bdb366de9dd3b905b4e1f17e634528cb52212
+Filename: ./debs/com.nguyentrungkien.AutoLeadHelperios13_1.0-25_iphoneos-arm.deb
+Size: 351808
+MD5sum: 06e1b3cbd929b7f1c8e449db4aff9e91
+SHA1: 44c152148474e1155e742fe63e651a07f3ea54d7
+SHA256: ba308c04278c3893603c5f03521bc5010c02b575322a1b48e27c6be3f96d56a9
 Depends: mobilesubstrate,com.rpetrich.rocketbootstrap
