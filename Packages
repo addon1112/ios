@@ -232,14 +232,14 @@ Depends: mobilesubstrate,com.rpetrich.rocketbootstrap
 Package: com.nguyentrungkien.AtlTeamhookFull
 Name: AtlTeamhookFull
 Architecture: iphoneos-arm
-Version: 1.0-99
+Version: 1.0-156
 Description: Hook  by LyNguyen -->Nguyen Trung Kien fake full
 Maintainer: AtlTeamhookFull 
 Author: AtlTeamhookFull 
 Section: Tweaks
-Filename: ./debs/com.nguyentrungkien.AtlTeamhook_1.0-99_iphoneos-arm.deb
-Size: 24384
-MD5sum: 0e0e04f11e2e49f4926d2d624f11813d
-SHA1: 786cf92d90de156b513a2b2c51b443330c1626fa
-SHA256: 9403e7b893ae6529c404e75f2d546b8243b9871f336e1eed5374c4c6126c93f7
+Filename: ./debs/com.nguyentrungkien.AtlTeamhook_1.0-156_iphoneos-arm.deb
+Size: 23972
+MD5sum: 9c8ed59e32deed516668035d4d23fca4
+SHA1: 46daa3f5cd74926d23cbfa262334bf0dfa89529d
+SHA256: ee94b4be3a40c5f495e97a4b8add06ced5833ab6abad61e8513f9ca95c6ee2bc
 Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
