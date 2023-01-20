@@ -243,3 +243,18 @@ MD5sum: 3581e3c7a251c39bc6c204d7da429270
 SHA1: e7fa4266708c0ea24d0314d0acd7ccd185c9cda6
 SHA256: 2599fdf0b2368a8102dcbcbf0a1fa85c9761fd6ff9c2e63a24e4c17a59fdc12b
 Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
+
+Package: com.nguyentrungkien.AtlTeamhookFull
+Name: AtlTeamhookFull
+Architecture: iphoneos-arm
+Version: 1.0-160
+Description: Hook  by LyNguyen -->Nguyen Trung Kien fake full
+Maintainer: AtlTeamhookFull 
+Author: AtlTeamhookFull 
+Section: Tweaks
+Filename: ./debs/com.nguyentrungkien.AtlTeamhook_1.0-160_iphoneos-arm.deb
+Size: 24088
+MD5sum: be7ac83fe1ec0b3366165fea13733c17
+SHA1: 60b5802e204e360e42e58f5b83425b318191ecb7
+SHA256: 8d9ed75c0a6aa1d5ffa5829fccfdadceb14c508a9e910e116e1b7fc0b53a065e
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
