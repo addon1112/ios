@@ -179,6 +179,20 @@ SHA1: b2ff3c9da94f8819e4cc0c6a2bf6f43cce1076fa
 SHA256: 459c8b1bb8ac0ae75d12453c7cd0e1bc0785bad68e7f437f19572cc90728f2cd
 Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
 
+Package: com.nguyentrungkien.AtlTeamhook
+Name: AtlTeamhook
+Architecture: iphoneos-arm
+Version: 1.0-163
+Description: Hook  by LyNguyen -->Nguyen Trung Kien
+Maintainer: AtlTeamhook 
+Author: AtlTeamhook 
+Section: Tweaks
+Filename: ./debs/com.nguyentrungkien.AtlTeamhook_1.0-163_iphoneos-arm.deb
+Size: 10456
+MD5sum: d6c17a6abb4716fb415310f4cf75ea16
+SHA1: d6179e2622581224d8b585a84934828ce9e826b1
+SHA256: fcbdaedaaabb4ed16dbae42f61504907d8cd54dbe0f408b69665d0f5c85deedb
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
 
 Package: com.nguyentrungkien.AtlTeamhookios13
 Name: AtlTeamhookios13
