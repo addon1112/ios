@@ -198,7 +198,7 @@ Package: com.nguyentrungkien.AtlTeamhookios13
 Name: AtlTeamhookios13
 Architecture: iphoneos-arm
 Version: 1.0-7
-Description: Hook by LyNguyen -->Nguyen Trung Kien IOS12
+Description: Hook by LyNguyen -->Nguyen Trung Kien IOS13
 Maintainer: AtlTeamhookios13 
 Author: AtlTeamhookios13 
 Section: Tweaks
@@ -209,6 +209,21 @@ SHA1: 68a6bfedb27f94869cbb077adacf28197902cf2c
 SHA256: 56857576f86302d4d1081cb37de69f82008f42f4c576e159519276a5584c2968
 Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
 
+
+Package: com.nguyentrungkien.AtlTeamhookios13
+Name: AtlTeamhookios13
+Architecture: iphoneos-arm
+Version: 1.0-42
+Description: Hook by LyNguyen -->Nguyen Trung Kien IOS13
+Maintainer: AtlTeamhookios13 
+Author: AtlTeamhookios13 
+Section: Tweaks
+Filename: ./debs/com.nguyentrungkien.AtlTeamhookios13_1.0-42_iphoneos-arm.deb
+Size: 22088
+MD5sum: ff8094f7337f3099caf96a81dfb7aef5
+SHA1: 8440d8bb3703de8de1cd74ea5707fe10f69effb7
+SHA256: e8e7abaa8e4b3e38e3b3093e4ab3d74bc5edc391d21e4838faa9563df7217656
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
 
 Package: com.nguyentrungkien.AtlTeamhookIDApple
 Name: AtlTeamhookIDApple
