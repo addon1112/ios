@@ -315,33 +315,3 @@ MD5sum: be7ac83fe1ec0b3366165fea13733c17
 SHA1: 60b5802e204e360e42e58f5b83425b318191ecb7
 SHA256: 8d9ed75c0a6aa1d5ffa5829fccfdadceb14c508a9e910e116e1b7fc0b53a065e
 Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
-
-Package: com.lyxaben.AtlTeamhookYTB
-Name: AtlTeamhookYTB
-Architecture: iphoneos-arm
-Version: 1.0-14
-Description: AtlTeamhookYTB for YTB by lyxaben
-Maintainer: AtlTeamhookYTB 
-Author: AtlTeamhookYTB 
-Section: Tweaks
-Filename: ./debs/com.lyxaben.AtlTeamhookYTB_1.0-14_iphoneos-arm.deb
-Size: 21416
-MD5sum: b856ddf6e9ec0f48f15a627b4f9f6ff8
-SHA1: 93bd162eff2d92de86f9336cd553a0951a773210
-SHA256: 0e3f4581676f4ece0a478d193b4f1e73ee2c6b9fa56235614ee1cb45857499a6
-Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
-
-Package: com.lyxaben.AutoLeadHelperYTB
-Name: AutoLeadHelperYTB
-Architecture: iphoneos-arm
-Version: 1.0-224
-Description: AutoLeadHelperYTB for YTB by lyxaben
-Maintainer: AutoLeadHelperYTB 
-Author: AutoLeadHelperYTB 
-Section: Tweaks
-Filename: ./debs/com.lyxaben.AutoLeadHelperYTB_1.0-224_iphoneos-arm
-Size: 371888
-MD5sum: 1600499cf41e6519c67ac33bd7927d51
-SHA1: 5d52afb0d54a468d02974052681cff71e70012b8
-SHA256: f69636c364789246187d90c58e6351f4a879284855de64d805ec55f50dacf27b
-Depends: mobilesubstrate,com.rpetrich.rocketbootstrap
