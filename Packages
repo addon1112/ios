@@ -86,7 +86,7 @@ Size: 4376
 MD5sum: b5e800270a8083ee98d69e4e0e9904c0
 SHA1: 53f7499a4561d43f1d0e545f2d96de163c1f7392
 SHA256: 73fbba8cedaf3a9f413f686c3d403bf13098a7152fea5a584a409f77148d3b44
-Depends: firmware (>= 6.0), mobilesubstrate, preferenceloader, applist,cy+cpu.arm64,mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2), com.rpetrich.rocketbootstrap (>= 1.0.6) | firmware (<< 7.0),libactivator,com.rbt.useragentchanger,com.rpetrich.rocketbootstrap, com.a3tweaks.flipswitch, preferenceloader, applist,openssh,applist,sudo,jetslammed,curl,network-cmds,lsof
+Depends: firmware (>= 6.0), mobilesubstrate, preferenceloader, applist,cy+cpu.arm64,mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2), com.rpetrich.rocketbootstrap (>= 1.0.6) | firmware (<< 7.0),libactivator,com.rbt.useragentchanger,com.rpetrich.rocketbootstrap, com.a3tweaks.flipswitch, preferenceloader, applist,openssh,applist,sudo,curl,network-cmds,lsof
 
 Package: 12ipa
 Name: 12ipa
@@ -101,7 +101,7 @@ Size: 59320
 MD5sum: a9770dca2370af15f03b812b8f91dc7e
 SHA1: 8cefa000880f4e5e4f1f7fdd47837febb27df3a5
 SHA256: afa1b6f77cf4c84f52550b14120de10cc72fabce6a2146866e1ec905aa88b393
-Pre-depends: mobilesubstrate,com.rpetrich.rocketbootstrap,openssh,applist,sudo,jetslammed,curl,network-cmds,firmware (>= 6.0), mobilesubstrate, preferenceloader, applist,cy+cpu.arm64,mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2), com.rpetrich.rocketbootstrap (>= 1.0.6) | firmware (<< 7.0),firmware (>= 4.0), gsc.armv7
+Pre-depends: mobilesubstrate,com.rpetrich.rocketbootstrap,openssh,applist,sudo,curl,network-cmds,firmware (>= 6.0), mobilesubstrate, preferenceloader, applist,cy+cpu.arm64,mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2), com.rpetrich.rocketbootstrap (>= 1.0.6) | firmware (<< 7.0),firmware (>= 4.0), gsc.armv7
 
 Package: amazonAtlTeamhook
 Name: amazonAtlTeamhook
@@ -339,9 +339,39 @@ Description: AutoLeadHelperYTB for YTB by lyxaben
 Maintainer: AutoLeadHelperYTB 
 Author: AutoLeadHelperYTB 
 Section: Tweaks
-Filename: ./debs/com.lyxaben.AutoLeadHelperYTB_1.0-224_iphoneos-arm
+Filename: ./debs/com.lyxaben.AutoLeadHelperYTB_1.0-224_iphoneos-arm.deb
 Size: 371888
 MD5sum: 1600499cf41e6519c67ac33bd7927d51
 SHA1: 5d52afb0d54a468d02974052681cff71e70012b8
 SHA256: f69636c364789246187d90c58e6351f4a879284855de64d805ec55f50dacf27b
 Depends: mobilesubstrate,com.rpetrich.rocketbootstrap
+
+Package: com.lyxaben1.AutoLeadHelperios13PhoneNumber
+Name: AutoLeadHelperios13PhoneNumber
+Architecture: iphoneos-arm
+Version: 1.0-5
+Description: support reg apple ID with phone number
+Maintainer: AutoLeadHelperios13PhoneNumber
+Author: AutoLeadHelperios13PhoneNumber
+Section: Tweaks
+Filename: ./debs/com.lyxaben1.AutoLeadHelperios13_1.0-5_iphoneos-arm.deb
+Size: 336280
+MD5sum: 7a4cb35fd9de44413dce726b6329e0fc
+SHA1: 64ba838e6cad1f63713520cd9e0422cab50a6d8e
+SHA256: 914c7239b989ccb58408289d95ea0d2e682b2cb33affae8efe9a0282e29a2779
+Depends: mobilesubstrate,com.rpetrich.rocketbootstrap
+
+Package: com.lyxaben1.AtlTeamhookios13PhoneNumber
+Name: AtlTeamhookios13PhoneNumber
+Architecture: iphoneos-arm
+Version: 1.0-10
+Description: hook support reg apple ID with phone number
+Maintainer: AtlTeamhookios13PhoneNumber 
+Author: AtlTeamhookios13PhoneNumber 
+Section: Tweaks
+Filename: ./debs/com.lyxaben1.AtlTeamhookios13_1.0-10_iphoneos-arm.deb
+Size: 3968
+MD5sum: e87df510290d5a7c321b77cb7bbcbda6
+SHA1: 3d5c972f89923d6f795d1766b13af930bc6e97ee
+SHA256: 90e410617f10800c88837b0e79f2834b8fa9a7ab7f3cbc138bddba29ae9a5e9c
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
