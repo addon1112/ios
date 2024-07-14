@@ -27,19 +27,6 @@ MD5sum: 6aa1da6c359b385e715cc8a71aa64364
 SHA1: 23618f385d41c2624fc09a60e9f554f3f8faff24
 SHA256: a13a6928248a41a6b81b1faec9703f4e7af9aedcede5ef11dbd71dbd22fc58ec
 
-Package: com.rbt.useragentchanger
-Name: User Agent Changer
-Architecture: iphoneos-arm
-Version: 1.1.10
-Description: Change your Browser's User Agent.
-Maintainer: poetic_folly <poetic_folly@modmyi.com>
-Author: ModMyi
-Section: Tweaks
-Filename: ./debs/com.rbt.useragentchanger_1.1.10_iphoneos-arm.deb
-Size: 53436
-MD5sum: cc29085d77d7a54902e273d059e136f4
-SHA1: 1565f739ac95bac2c853ae43d869b19098e5d986
-SHA256: 19772a47fca9829a32376a6f3bab9fb34da713ea4a42c06214977a964f31c4fd
 
 Package: com.ryleyangus.libertylite
 Name: Liberty Lite (Beta)
@@ -86,7 +73,7 @@ Size: 4376
 MD5sum: b5e800270a8083ee98d69e4e0e9904c0
 SHA1: 53f7499a4561d43f1d0e545f2d96de163c1f7392
 SHA256: 73fbba8cedaf3a9f413f686c3d403bf13098a7152fea5a584a409f77148d3b44
-Depends: firmware (>= 6.0), mobilesubstrate, preferenceloader, applist,cy+cpu.arm64,mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2), com.rpetrich.rocketbootstrap (>= 1.0.6) | firmware (<< 7.0),libactivator,com.rbt.useragentchanger,com.rpetrich.rocketbootstrap, com.a3tweaks.flipswitch, preferenceloader, applist,openssh,applist,sudo,curl,network-cmds,lsof
+Depends: firmware (>= 6.0), mobilesubstrate, preferenceloader, applist,cy+cpu.arm64,mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2), com.rpetrich.rocketbootstrap (>= 1.0.6) | firmware (<< 7.0),libactivator,com.rpetrich.rocketbootstrap, com.a3tweaks.flipswitch, preferenceloader, applist,openssh,applist,sudo,curl,network-cmds,lsof
 
 Package: 12ipa
 Name: 12ipa
